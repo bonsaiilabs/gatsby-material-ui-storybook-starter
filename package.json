@@ -35,7 +35,7 @@
     "gatsby-plugin-sharp": "2.2.12",
     "gatsby-plugin-styled-components": "^3.0.1",
     "gatsby-source-filesystem": "^2.0.4",
-    "gatsby-transformer-sharp": "^2.2.10",
+    "gatsby-transformer-sharp": "^2.2.11",
     "prop-types": "^15.6.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
