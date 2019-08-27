@@ -5,12 +5,11 @@ This stack helps developers to develop beautiful websites faster!
 ### How to run?
 Checkout the project
 ```sh
-git clone https://harithimanshu@bitbucket.org/harithimanshu/ladot_v2.git
 ```
 
 Go to the project root
 ```sh
-cd ladot_v2
+cd 
 ```
 
 Install the dependencies
